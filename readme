@@ -1,0 +1,10 @@
+1. In the repo, have the following folder 
+  -- Solidworks
+     --- control box
+     --- machine
+  -- Arduino
+Mechanical Bill of material.xsl
+Electrical Bill of material.xsl
+Electrical schematic.pdf
+Assembling guide.pdf
+read.md 
