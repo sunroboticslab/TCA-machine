@@ -8,3 +8,13 @@ Electrical Bill of material.xsl
 Electrical schematic.pdf
 Assembling guide.pdf
 read.md 
+
+Put Brandon's video here. 
+
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
+
+Explain what the changes that we have made. 
+Add good comments on the code. 
+
