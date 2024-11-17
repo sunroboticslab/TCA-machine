@@ -1,4 +1,4 @@
-<h1 align="center">Twisted and Coiled Actuator (TCA) Machine - Versions 1 & 2</h1>
+<h1 align="center">Twisted and Coiled Actuator (TCA) Machine - V1 & V2</h1>
 
 <p>Welcome to the Twisted and Coiled Actuator (TCA) Machine project repository! This project involves the design, manufacturing, and development of two versions of a machine used to fabricate TCAs for soft robotic applications. TCAs mimic biological actuators and are ideal for creating compliant, adaptive, and resilient robots. This repository contains the models, control software, documentation, and more for both versions of the TCA machine.</p>
 
