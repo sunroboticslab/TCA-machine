@@ -19,16 +19,19 @@
 <ul>
   <li><strong>01 SolidWorks</strong>
     <ul>
-      <li>01 Machine: Contains SolidWorks files for the mechanical design of the TCA machine.</li>
-      <li>02 Control_Box: SolidWorks files for the control box design, including details of the electronics.</li>
+      <li><strong>01 Machine:</strong> Contains SolidWorks files for the mechanical design of the TCA machine.</li>
+      <li><strong>02 Control_Box:</strong> SolidWorks files for the control box design, including details of the electronics.</li>
     </ul>
   </li>
   <li><strong>02 Arduino</strong>: Arduino code to control the motors and sensors of the machine, ensuring precise coiling and twisting.</li>
-  <li><strong>03 Documentation</strong>: Contains documentation related to Version 1, which are listed below.</li>
-  <li><strong>Parts list TCA machine.xlsx</strong>: An Excel file listing all the parts used in Version 1 of the TCA machine.</li>
-  <li><strong>TCA Machine.docx</strong>: Documentation describing the purpose and operation of the TCA machine.</li>
-  <li><strong>TCA Manufacturing.pptx</strong>: A PowerPoint presentation that provides insights into the manufacturing process of TCAs.</li>
-  <li><strong>motor layout.pptx</strong>: A presentation detailing the layout of the motors used in Version 1.</li>
+  <li><strong>03 Documentation</strong>: Contains documentation related to Version 1, which are listed below.
+  <ul>
+      <li><strong>Parts list TCA machine.xlsx:</strong> An Excel file listing all the parts used in Version 1 of the TCA machine.</li>
+      <li><strong>TCA Machine.docx:</strong> Documentation describing the purpose and operation of the TCA machine.</li>
+      <li><strong>TCA Manufacturing.pptx:</strong> A PowerPoint presentation that provides insights into the manufacturing process of TCAs.</li>
+      <li><strong>motor layout.pptx:</strong> A presentation detailing the layout of the motors used in Version 1.</li>
+    </ul>
+  </li>
   <li><strong>04 Photos</strong>: A collection of photos showcasing the machine and its components.</li>
 </ul>
 
@@ -36,15 +39,18 @@
 <ul>
   <li><strong>01 SolidWorks</strong>
     <ul>
-      <li>01 Machine: Updated SolidWorks files for the enhanced mechanical design.</li>
-      <li>02 Control_Box: Updated SolidWorks files for the improved control box design.</li>
+      <li><strong>01 Machine</strong>: Updated SolidWorks files for the enhanced mechanical design.</li>
+      <li><strong>02 Control_Box</strong>: Updated SolidWorks files for the improved control box design.</li>
     </ul>
   </li>
-  <li><strong>02 Arduino/TCACodeV2.0</strong>: Improved Arduino code for Version 2, featuring optimizations for smoother operation and enhanced control.</li>
-  <li><strong>03 Documentation</strong>: Updated user manuals and documentation for assembling and operating Version 2.</li>
-  <li><strong>Instructions_manualV2.pdf</strong>: A comprehensive user manual for Version 2, detailing Mechanical Construction, Electrical Construction, and how to use the machine.</li>
-  <li><strong>Motor_Layout.pdf</strong>: A PDF document detailing the motor layout in Version 2.</li>
-  <li><strong>TCA_Machine_Mech_BOM.xlsx</strong>: Bill of Materials for the mechanical components in Version 2.</li>
-  <li><strong>TCA_Machine_Electric_BOM.xlsx</strong>: Bill of Materials for the electrical components in Version 2.</li>
+<li><strong>02 Arduino/TCACodeV2.0</strong>: Improved Arduino code for Version 2, featuring optimizations for smoother operation and enhanced control.</li>
+<li><strong>03 Documentation</strong>: Updated user manuals and documentation for assembling and operating Version 2.
+    <ul>
+    <li><strong>Instructions_manualV2.pdf</strong>: A comprehensive user manual for Version 2, detailing Mechanical Construction, Electrical Construction, and how to use the machine.</li>
+    <li><strong>Motor_Layout.pdf</strong>: A PDF document detailing the motor layout in Version 2.</li>
+    <li><strong>TCA_Machine_Mech_BOM.xlsx</strong>: Bill of Materials for the mechanical components in Version 2.</li>
+    <li><strong>TCA_Machine_Electric_BOM.xlsx</strong>: Bill of Materials for the electrical components in Version 2.</li>
+    </ul>
+  </li>
   <li><strong>04 Photos</strong>: Photos of Version 2 showcasing the new features and improvements.</li>
 </ul>
