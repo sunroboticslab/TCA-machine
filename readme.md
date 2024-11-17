@@ -12,6 +12,14 @@
   <li><strong>Version 1</strong></li>
   <li><strong>Version 2</strong></li>
 </ul>
+<h3>Differences Between Version 1 and Version 2</h3>
+<ul>
+  <li>Version 2 has an increased width to improve reliability and provide more room for manipulation.</li>
+  <li>The pulley in Version 2 is separated from the machine and suspended in the air to reduce friction and tension in the thread.</li>
+  <li>A Stepper motor was removed in Version 2 as it was redundant.</li>
+  <li>Transition from latch buttons to momentary buttons for improved control.</li>
+  <li>Physical limit switches were added in Version 2 for enhanced safety and control.</li>
+</ul>
 
 <h2>Repository Structure</h2>
 
