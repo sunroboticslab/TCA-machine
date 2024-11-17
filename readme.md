@@ -9,8 +9,8 @@
 <p>There are two versions of the TCA machine available in this repository:</p>
 
 <ul>
-  <li><strong>Version 1</strong>: The initial prototype that introduces the concept of automating TCA production, featuring a simpler mechanical and electrical setup.</li>
-  <li><strong>Version 2</strong>: An enhanced version that includes mechanical improvements, control box redesign, improved user manuals, and additional optimizations for efficient production.</li>
+  <li><strong>Version 1</strong></li>
+  <li><strong>Version 2</strong></li>
 </ul>
 
 <h2>Repository Structure</h2>
